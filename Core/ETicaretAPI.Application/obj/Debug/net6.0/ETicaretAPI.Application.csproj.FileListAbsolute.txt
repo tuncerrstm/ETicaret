@@ -1,0 +1,15 @@
+C:\eTicaret-app\ETicaret\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.deps.json
+C:\eTicaret-app\ETicaret\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.dll
+C:\eTicaret-app\ETicaret\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\eTicaret-app\ETicaret\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\eTicaret-app\ETicaret\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\eTicaret-app\ETicaret\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.csproj.AssemblyReference.cache
+C:\eTicaret-app\ETicaret\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\eTicaret-app\ETicaret\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.AssemblyInfoInputs.cache
+C:\eTicaret-app\ETicaret\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.AssemblyInfo.cs
+C:\eTicaret-app\ETicaret\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.csproj.CoreCompileInputs.cache
+C:\eTicaret-app\ETicaret\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.csproj.CopyComplete
+C:\eTicaret-app\ETicaret\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.dll
+C:\eTicaret-app\ETicaret\Core\ETicaretAPI.Application\obj\Debug\net6.0\refint\ETicaretAPI.Application.dll
+C:\eTicaret-app\ETicaret\Core\ETicaretAPI.Application\obj\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\eTicaret-app\ETicaret\Core\ETicaretAPI.Application\obj\Debug\net6.0\ref\ETicaretAPI.Application.dll
