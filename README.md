@@ -16,7 +16,7 @@ Our project was created using the code first methodology.
 
 It is a mini project and is designed as a e-commerce website.
 
-<img src="https://media.giphy.com/media/5wG597QP1fjG7xIfte/giphy.gif" align ="right"  width="430" height="430" >
+<img src="https://media.giphy.com/media/jQmn1Dkw55R3cjm3eC/giphy.gif" align ="right"  width="430" height="430" >
 
 ## Hi there, I'm Tundzher. :blush:
 
@@ -60,7 +60,7 @@ It is a mini project and is designed as a e-commerce website.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuncerrstm&layout=compact" >
 </details>
 
-<img src="https://media.giphy.com/media/AErExHJVxRbkm5hPkB/giphy.gif" align ="left" width="340" height="340"  >
+<img src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif" align ="left" width="340" height="340"  >
 
 [twitter]: https://twitter.com/tuncerRstm
 [linkedin]: https://www.linkedin.com/in/tuncer-r%C3%BCstemo%C4%9Flu-74917b187/
