@@ -6,7 +6,6 @@
 
 - Migrations
 - Code First
-- Layered Architecture
 - Entity Framework
 - .NET Core 6 + 
 - MVC Pattern
@@ -17,7 +16,7 @@ Our project was created using the code first methodology.
 
 It is a mini project and is designed as a e-commerce website.
 
-<img src="https://media.giphy.com/media/IzL667EYx01N8TXN9k/giphy-downsized-large.gif" align ="right"  width="430" height="430" >
+<img src="https://media.giphy.com/media/5wG597QP1fjG7xIfte/giphy.gif" align ="right"  width="430" height="430" >
 
 ## Hi there, I'm Tundzher. :blush:
 
