@@ -9,7 +9,7 @@
 - Entity Framework
 - .NET Core 6 + 
 - MVC Pattern
-- Orion Architecture
+- Onion Architecture
 
 
 Our project was created using the code first methodology.
